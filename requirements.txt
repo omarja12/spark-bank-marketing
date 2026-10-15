@@ -1,0 +1,7 @@
+pyspark==3.5.3
+numpy==1.26.4
+pandas==2.2.3
+pyarrow==17.0.0
+matplotlib==3.9.2
+nbconvert==7.16.4
+ipykernel==6.29.5
